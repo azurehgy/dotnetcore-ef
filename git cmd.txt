@@ -1,0 +1,15 @@
+git clone https://github.com/azurehgy/dotnetcore-ef.git
+git remote add origin https://github.com/azurehgy/dotnetcore-ef.git
+git remote -v
+git status
+git add . 
+git commit -m "initial commit"
+git push remote origin
+
+STEP 1: git stash your local uncommitted changes on that branch.
+
+STEP 2: git pull origin branch_name -v to pull and merge to locally committed changes on that branch (give this merge some message, and fix conflicts if any.)
+
+STEP 3: git stash pop the stashed changes (Then you can make commits on popped files if you want or push already committed changes (STEP4) first and make new commit to files later.)
+
+STEP 4: git push origin branch_name -v the merged changes.
