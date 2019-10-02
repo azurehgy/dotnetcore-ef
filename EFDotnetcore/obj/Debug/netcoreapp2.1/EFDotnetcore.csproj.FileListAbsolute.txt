@@ -1,0 +1,11 @@
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\bin\Debug\netcoreapp2.1\EFDotnetcore.deps.json
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\bin\Debug\netcoreapp2.1\EFDotnetcore.runtimeconfig.json
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\bin\Debug\netcoreapp2.1\EFDotnetcore.runtimeconfig.dev.json
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\bin\Debug\netcoreapp2.1\EFDotnetcore.dll
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\bin\Debug\netcoreapp2.1\EFDotnetcore.pdb
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\obj\Debug\netcoreapp2.1\EFDotnetcore.csprojAssemblyReference.cache
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\obj\Debug\netcoreapp2.1\EFDotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\obj\Debug\netcoreapp2.1\EFDotnetcore.AssemblyInfoInputs.cache
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\obj\Debug\netcoreapp2.1\EFDotnetcore.AssemblyInfo.cs
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\obj\Debug\netcoreapp2.1\EFDotnetcore.dll
+C:\Users\azurehgy\source\repos\EFDotnetcore\EFDotnetcore\obj\Debug\netcoreapp2.1\EFDotnetcore.pdb
